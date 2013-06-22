@@ -7,10 +7,9 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyCompany("K4GDW")> 
+<Assembly: AssemblyCompany("K4GDW Consulting")> 
 <Assembly: AssemblyCopyright("Copyright © K4GDW 2011")> 
 <Assembly: AssemblyTrademark("K4GDW")> 
-
 <Assembly: ComVisible(False)> 
-
-
+<Assembly: CLSCompliant(True)> 
+<Assembly: AssemblyVersion("2.0.0")> 

@@ -3,12 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "K4GDW.IdTimer", "src\K4GDW.IdTimer\K4GDW.IdTimer.vbproj", "{23EF4E58-BA14-4FC0-A38A-90B3EED6CAD4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{CB3FF6EA-C7CC-4EC1-B888-42DB3B40ED8F}"
+	ProjectSection(SolutionItems) = preProject
+		SolutionFiles\gdw16.ico = SolutionFiles\gdw16.ico
+		SolutionFiles\K4GDW.IdTimer.xml = SolutionFiles\K4GDW.IdTimer.xml
+		SolutionFiles\screenshot.jpg = SolutionFiles\screenshot.jpg
+		SolutionFiles\SolutionInfo.vb = SolutionFiles\SolutionInfo.vb
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{BF49ACC8-DB37-4E82-B8F8-A8768D92639A}"
 	ProjectSection(SolutionItems) = preProject
 		.nuget\NuGet.Config = .nuget\NuGet.Config
 		.nuget\NuGet.exe = .nuget\NuGet.exe
-		.nuget\NuGet.targets = .nuget\NuGet.targets
 	EndProjectSection
 EndProject
 Global
