@@ -5,7 +5,7 @@ This is one of my first .Net apps that I made available for
 public use.   It's  a  very simple little Windows Forms app
 that provides a visual reminder for amateur radio operators
 to identify their station every 10 minutes as  required  by
-FCC rules part [97.119}[1].
+FCC rules part [97.119][1].
 
 It would mostly be useful to new hams.More experienced hams
 usually will not need any such remnders.
