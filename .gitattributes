@@ -35,16 +35,17 @@
 *.json				-text	diff=javascript
 *.msbuild			-text	diff=xml
 *.nuspec			-text	diff=xml
-*.resx				-text	
+*.resx				-text	diff=xml	
 *.ruleset			-text	
 *.StyleCop			-text	
 *.targets			-text	
-*.tt				-text	
+*.tt				-text	diff=xml
 *.txt				-text	
 *.vb				-text	
 *.vbs				-text	
 *.wsf				-text	
 *.xml				-text	diff=xml
+*.xsd				-text	diff=xml
 *.xunit				-text
 .gitattributes		-text
 .gitignore			-text
@@ -52,7 +53,6 @@
 *.appxmanifest		-text	diff=xml
 *.md				-text
 *.markdown			-text
-*.targets			-text
 *.vssettings		-text	diff=xml
 Settings.StyleCop 	-text
 VERSION 			-text
