@@ -22,3 +22,4 @@ _UpgradeReport_Files/
 *.orig
 *.min.*
 TestResult.xml
+.svn/
