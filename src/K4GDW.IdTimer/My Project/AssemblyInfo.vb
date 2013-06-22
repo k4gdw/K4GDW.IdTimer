@@ -7,14 +7,16 @@ Imports System.Runtime.InteropServices
 ' associated with an assembly.
 
 ' Review the values of the assembly attributes
-
-<Assembly: AssemblyTitle("")> 
-<Assembly: AssemblyDescription("")> 
-<Assembly: AssemblyCompany("")> 
-<Assembly: AssemblyProduct("")> 
-<Assembly: AssemblyCopyright("")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyCompany("K4GDW")> 
+<Assembly: AssemblyCopyright("Copyright © K4GDW 2011")> 
+<Assembly: AssemblyTrademark("K4GDW")> 
+<Assembly: AssemblyTitle("K4GDW Id Timer")> 
+<Assembly: AssemblyDescription("A simple desktop appllication that reminds " +
+							   "a ham radio operator to trasmit station " +
+							   "identification every ten minutes.")> 
+<Assembly: AssemblyProduct("K4GDW.IdTimer")> 
 <Assembly: CLSCompliant(True)> 
+<Assembly: ComVisible(False)> 
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
 <Assembly: Guid("40353451-60C3-42BB-AB04-598E82EE4D50")> 
@@ -29,4 +31,4 @@ Imports System.Runtime.InteropServices
 ' You can specify all the values or you can default the Build and Revision Numbers 
 ' by using the '*' as shown below:
 
-<Assembly: AssemblyVersion("1.0.*")> 
+<Assembly: AssemblyVersion("2.0.0")> 
